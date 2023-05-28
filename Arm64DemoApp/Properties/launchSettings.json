@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Arm64DemoApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
